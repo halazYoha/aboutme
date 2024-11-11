@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    
+}
+.container{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    height: 400px;
+    
+    margin-top: 20px;
+    
+    
+    
+}
+.head{
+    background-color: black;
+    height: 200px;
+}
+.main{
+    background-color: white;
+    height: 150px;
+}
+.foot{
+    background-color: black;
+    height: 50px;
+}
+i{
+    color: black;
+}
+.foot{
+    text-align: center;
+    font-weight: bold;
+}
+.foot a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.ha{
+    color: rgb(13, 214, 26);
+    text-shadow: 5px -4px rgb(201, 187, 187);
+}
